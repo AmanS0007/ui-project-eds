@@ -2,7 +2,7 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--eds-training--eds-kunal.hlx.page/
+- Preview: https://main--ui-project-eds--amans0007.hlx.page/
 - Live: https://main--eds-training--eds-kunal.hlx.live/
 
 ## Installation
