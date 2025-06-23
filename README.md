@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--eds-training--eds-kunal.hlx.page/
-- Live: https://main--eds-training--eds-kunal.hlx.live/
+- Preview: https://main--ui-project-eds--amans0007.aem.page
+- Live: https://main--ui-project-eds--amans0007.aem.live/
 
 ## Installation
 
